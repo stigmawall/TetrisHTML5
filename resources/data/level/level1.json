@@ -1,0 +1,27 @@
+﻿{
+    "title": "Some-Some",
+	"cols":10,
+	"rows":8,
+    "tutorial": "Como jogar? \nVocê precisa encontrar o encaixe perfeito para cada peça na parede de blocos. \nLembre-se, a soma é o enigma para esse encaixe. \nCada vez que você completa uma linha ela desaparece! \nSeja rápido, e use dicas quando estiver desesperado!",
+    "background": "img/bgs/bg.png",
+    "sprite_block": "img/items/pieces_spritesheet.png",
+    "time_to_create_line": 40,
+    "possible_numbers": [ 1, 2, 3, 4, 5],
+    "max_tips": 5,
+    "drag_color": "0x4444FF",
+    "tips_color": "0xFF4444",
+    "tips_increment": 1,
+    "points_increment":  10,
+    "points_increment_with_tips": 3,
+    "minimum_points_to_win": 100,
+    "score_digits":4,
+    "monster_scale":1,
+    "can_win":false,
+    "always_correct":false,
+    "initial_num_lines":1,
+    "lines_on_click_more":1,
+    "lines_when_clear_all":2,
+    "points_when_clear_all_lines":100,
+    "possible_pieces":[1,2,3,4,5,6]
+}
+
