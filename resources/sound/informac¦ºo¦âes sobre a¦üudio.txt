@@ -1,7 +1,0 @@
-O ideal é que se tenha os três tipos de arquivos por áudio, assim caso um navegador não reconheça um formato, tem outro formato para substituir.
-
-Os formatos são:
-
-MP3
-OGG
-M4A
